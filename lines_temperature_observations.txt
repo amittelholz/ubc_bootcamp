@@ -1,0 +1,3 @@
+      3 temperature_observations_Iq.txt
+      5 temperature_observations_Vancouver.txt
+      8 total
